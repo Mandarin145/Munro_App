@@ -1,0 +1,25 @@
+
+
+.MunroInfo {
+    padding-left: 250px;
+    padding-right: 250px;
+    padding-bottom: 200px;
+}
+
+
+#MunroTable {
+    border-width: 10px;
+    border-color: #668633;
+    border-style: solid;
+    border-radius: 50px;
+    overflow: auto; 
+    max-height: 800px;
+    box-sizing: border-box;
+}
+
+
+#MunroTable::-webkit-scrollbar {
+    width: 1px;
+    
+
+}    

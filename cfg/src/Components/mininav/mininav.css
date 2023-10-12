@@ -1,0 +1,19 @@
+.mini-nav-container {
+    position: absolute;
+    top: 10px;
+    left: 400px;
+    right: 400px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 100px;
+    z-index: 999; 
+  }
+  
+  .mini-nav-container .icon-left {
+    margin-right: auto;
+  }
+  
+  .mini-nav-container .icon-right {
+    margin-left: auto;
+  }
